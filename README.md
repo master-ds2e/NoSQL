@@ -101,14 +101,16 @@ https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
 <a name="Evaluation system"></a>
 
+## Grading
+
 You will have two grades at the end of the semester for this module. 
 
-## Final exam
+### Final exam
 
 Date: tbd 
 Content: Questions mixed with the differents module inside of the UE. For my side of the exam you'll have a study case with a Python code to interpret and comment. Details tbd
 
-## Dossier
+### Dossier
 
 It's not a "dossier" per say:
 
