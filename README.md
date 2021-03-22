@@ -5,7 +5,7 @@
 - [Program](#Program)
 - [Prerequisites](#Prerequisites)
 - [Preparation Before the First Session](#Preparation)
-- [Project Work](#Project)
+- [Grading](#Grading)
 - [Resources](#Resources)
 
 <a name="Instructor"></a>
