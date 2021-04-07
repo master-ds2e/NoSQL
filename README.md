@@ -110,16 +110,17 @@ You will have two grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: tbd 
+Date: 20/5/2021 de 14h à 16h.
 Content: Questions mixed with the differents module inside of the UE. For my side of the exam you'll have a study case with a Python code to interpret and comment. Details tbd
 
 ### Dossier
 
+Date: 26/04/2021
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo", At the end of each Chapter you'll send me these todos. This is mainly to see your participation since most of them will be worked and discussed during the course. That is one side of your grade.
 
-- For Chapter 2 & 3 there will be a couple of "Homeworks". You will have to complete one Homework for chapter II and two for chapter III (you decide which one) and send it to me (date: tbd). Since it will be a mix between code and written answers I recommend using Jupyter-Notebook (more on that later).
+- For Chapter 2 & 3 there will be a couple of "Homeworks". You will have to complete one Homework for chapter II and two for chapter III (you decide which one) and send it to me. Since it will be a mix between code and written answers I recommend using Jupyter-Notebook (more on that later).
 
 <a name="Resources"></a>
 ## Resources
