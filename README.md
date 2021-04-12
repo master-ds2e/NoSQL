@@ -91,6 +91,14 @@ If you have little experience with Python or shell programming, the following tu
 
 ## Preparation before Chapter III
 
+### Method 1
+First you need to install [java](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
+
+Then install [neo4j desktop](https://neo4j.com/download-thanks-desktop/?edition=desktop&flavour=windows&release=1.4.3&offline=true)
+
+When everything is done you can launch Neo4j Desktop and you should be able to connect to the default db (Movie)
+
+### Method 2
 First you need to install java. Seems like there's a lot of compatibility issue so I recommend you use the same version as me. 
 https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
