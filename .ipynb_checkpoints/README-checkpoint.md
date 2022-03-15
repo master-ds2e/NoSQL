@@ -18,7 +18,7 @@ Contact:
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
- - Second year PHD student in Economics.  (Bibliometrics, novelty, ...)
+ - Third PHD student in Economics.  (Bibliometrics, novelty, ...)
  - R since 2016 and Python 2018.
  - Working with SQL and noSQL databases.
 
@@ -29,15 +29,15 @@ About me:
 The aim of this course is to teach students a way to store and process non-relational data. Depending on the size but also the problem at hand you will not use the same storage system. You will learn to choose the right format for the non-relational data you have.
 During the whole course we are going to use Python as our programming language. We start off with basic unstructured formats like json, xml, dictionnaries. Next we study the most currently used noSQL databases: [MongoDB](https://www.mongodb.com/), [Neo4j](https://neo4j.com/download-neo4j-now). We finish with a short presentation of other DBs. 
 
-The goal of the course is not to be exhaustive. Programming is a vast space of knowledge, sometimes you will do something I never done before. In the end you will learn what I know and I will learn from your questions. This also means that I can't have the answers to all of your problems, basic behavior in programming is to first do research on your side. Websites like stackoverflow/stackexchange/Quora/Youtube/Github/... all of them are your best friends when it comes to solving issues. If after your own research you are still lost then you can send me a message about your problem. Either I will have the solution because I encountered it previously, or I don't but I can guide you to the solution. In no way you should ask me to code things for you, it's your job !
+The goal of the course is not to be exhaustive. Programming is a vast space of knowledge, sometimes you will do something I have never done before. In the end you will learn what I know and I will learn from your questions. This also means that I can't have the answers to all of your problems, basic behavior in programming is to first do research on your side. Websites like stackoverflow/stackexchange/Quora/Youtube/Github/... all of them are your best friends when it comes to solving issues. If after your own research you are still lost then you can send me a message about your problem. Either I will have the solution because I encountered it previously, or I don't but I can guide you to the solution. In no way you should ask me to code things for you, it's your job !
 
 <a name="Program"></a>
 ## Program 
 
-20H online lecture (Discord)
+20H face to face lecture
 
 - Introduction
-- Chapter 1:  Basic data format that are non-relational (2h)
+- Chapter 1:  Basic data format that are non-relational
 - Chapter 2:  MongoDB
 - Chapter 3:  Neo4j
 - Chapter 4:  Other alternatives.
@@ -118,17 +118,17 @@ You will have two grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: 20/5/2021 de 14h à 16h.
+Date: tba.
 Content: Questions mixed with the differents module inside of the UE. For my side of the exam you'll have a study case with a Python code to interpret and comment. Details tbd
 
 ### Dossier
 
-Date: 26/04/2021
+Date: tba.
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo", At the end of each Chapter you'll send me these todos. This is mainly to see your participation since most of them will be worked and discussed during the course. That is one side of your grade.
 
-- For Chapter 2 & 3 there will be a couple of "Homeworks". You will have to complete one Homework for chapter II and two for chapter III (you decide which one) and send it to me. Since it will be a mix between code and written answers I recommend using Jupyter-Notebook (more on that later).
+- I recommend using Jupyter-Notebook (more on that later).
 
 <a name="Resources"></a>
 ## Resources
