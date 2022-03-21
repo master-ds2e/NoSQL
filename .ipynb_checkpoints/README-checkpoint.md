@@ -126,7 +126,7 @@ Content: Questions mixed with the differents module inside of the UE. For my sid
 Date: tba.
 It's not a "dossier" per say:
 
-- In each chapter there's a couple of "todo", At the end of each Chapter you'll send me these todos. This is mainly to see your participation since most of them will be worked and discussed during the course. That is one side of your grade.
+- In each chapter there's a couple of "todo" and "Homework", At the end of each Chapter you'll send me these todos. This is mainly to see your participation since most of them will be worked and discussed during the course. That is one side of your grade.
 
 - I recommend using Jupyter-Notebook (more on that later).
 
