@@ -123,12 +123,12 @@ Content: Questions mixed with the differents module inside of the UE. For my sid
 
 ### Dossier
 
-Date: 06/04/2022.
+Date: 23/04/2022.
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo" you'll send me these todos and will count as a bonus/malus towards the grade. This is an individual work and mainly to see your participation since most of them will be worked and discussed during the course.
 
-- At the end of Chapter II and III there are a couple of homeworks, you'll send me two choosen homework per chapter before the 06/04/2022. This is a group work (either solo or max 2 people) and will be your main grade.
+- At the end of Chapter II and III there are a couple of homeworks, you'll send me two choosen homework per chapter before the 23/04/2022. This is a group work (either solo or max 2 people) and will be your main grade.
 
 - I recommend using Jupyter-Notebook (more on that later).
 
