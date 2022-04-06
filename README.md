@@ -118,7 +118,7 @@ You will have two grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: tba.
+Date: 25/04/2022.
 Content: Questions mixed with the differents module inside of the UE. For my side of the exam you'll have a study case with a Python code to interpret and comment. Details tbd
 
 ### Dossier
