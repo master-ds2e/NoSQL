@@ -14,7 +14,6 @@ Contact:
  - Wirtz Kevin
  - University of Strasbourg, BETA
  - kevin.wirtz@unistra.fr
- - On discord (Send me a mail if you need a new link for another account)
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
@@ -37,10 +36,11 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 20H face to face lecture
 
 - Introduction
-- Chapter 1:  Basic data format that are non-relational
-- Chapter 2:  MongoDB
-- Chapter 3:  Neo4j
-- Chapter 4:  Other alternatives.
+- Chapter 1:  SQL
+- Chapter 2:  Basic data format that are non-relational
+- Chapter 3:  MongoDB
+- Chapter 4:  Neo4j
+- Chapter 5:  Other alternatives.
 
     <img src="img/edt.png">
 
@@ -49,7 +49,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 
 - Prior knowledge in Python is required and familiarity with programming concepts.
 - A laptop connected to the internet and running Windows, Linux, MacOS
-- Anaconda installed, see below. Choose one of the IDE (I'll be using Spyder and Jupyter-Notebook)
+- Anaconda or Visual Studio Code installed, see below. Choose one of the IDE (I'll be using Spyder and Jupyter-Notebook)
 - One text editor ([Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Vim](https://www.vim.org/), ...)
 
 
@@ -72,7 +72,7 @@ If you have little experience with Python or shell programming, the following tu
 
 - Install [Sublime](https://www.sublimetext.com/3)
 
-## Preparation before Chapter II
+## Preparation before Chapter III
 
 - Install MongoDB:
     * Windows
@@ -89,7 +89,7 @@ If you have little experience with Python or shell programming, the following tu
 
 - Install MongoDB compass https://www.mongodb.com/try/download/compass
 
-## Preparation before Chapter III
+## Preparation before Chapter IV
 
 ### Method 1
 First you need to install [java](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
@@ -118,17 +118,17 @@ You will have two grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: 25/04/2022.
-Content: Questions mixed with the differents module inside of the UE. For my side of the exam you'll have a study case with a Python code to interpret and comment. Details tbd
+Date: 15/05/2023 de 9h à 10h en salle A 330.
+Content: Theoretical questions and a study case with a Python code to interpret and comment. Details tbd
 
 ### Dossier
 
-Date: 23/04/2022.
+Date: 23/04/2023.
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo" you'll send me these todos and will count as a bonus/malus towards the grade. This is an individual work and mainly to see your participation since most of them will be worked and discussed during the course.
 
-- At the end of Chapter II and III there are a couple of homeworks, you'll send me two choosen homework per chapter before the 23/04/2022. This is a group work (either solo or max 2 people) and will be your main grade.
+- At the end of Chapter II and III there are a couple of homeworks, you'll send me two choosen homework per chapter before the 23/04/2023. This is a group work (either solo or max 2 people) and will be your main grade.
 
 - I recommend using Jupyter-Notebook (more on that later).
 
