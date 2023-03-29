@@ -17,7 +17,7 @@ Contact:
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
- - Third PHD student in Economics.  (Bibliometrics, novelty, collaboration network, ...)
+ - Fourth year PHD student in Economics.  (Bibliometrics, novelty, collaboration network, ...)
  - R since 2016 and Python 2018.
  - Working with SQL and noSQL databases.
 
