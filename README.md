@@ -123,12 +123,12 @@ Content: Theoretical questions and a study case with a Python code to interpret 
 
 ### Dossier
 
-Date: 23/04/2023.
+Date: 14/05/2023.
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo" you'll send me these todos and will count as a bonus/malus towards the grade. This is an individual work and mainly to see your participation since most of them will be worked and discussed during the course.
 
-- At the end of Chapter II and III there are a couple of homeworks, you'll send me two choosen homework per chapter before the 23/04/2023. This is a group work (either solo or max 2 people) and will be your main grade.
+- At the end of Chapter III and IV there are a couple of homeworks, you'll send me one choosen homework for chapter III and 2 for chapter IV before the 14/05/2023. This is a group work (either solo or max 2 people) and will be your main grade.
 
 - I recommend using Jupyter-Notebook (more on that later).
 
