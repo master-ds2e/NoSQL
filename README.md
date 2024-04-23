@@ -17,7 +17,7 @@ Contact:
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
- - Fourth year PHD student in Economics.  (Bibliometrics, novelty, collaboration network, ...)
+ - PhD in Economics.  (Bibliometrics, novelty, collaboration network, ...)
  - R since 2016 and Python 2018.
  - Working with SQL and noSQL databases.
 
@@ -72,6 +72,11 @@ If you have little experience with Python or shell programming, the following tu
 
 - Install [Sublime](https://www.sublimetext.com/3)
 
+## Preparation before Chapter I
+
+- Install MySQL https://dev.mysql.com/downloads/ and make sure you have MySQL workbench.
+- Install PostgreSQL https://www.enterprisedb.com/downloads/postgres-postgresql-downloads and make sure you have pgAdmin 4.
+
 ## Preparation before Chapter III
 
 - Install MongoDB:
@@ -91,39 +96,22 @@ If you have little experience with Python or shell programming, the following tu
 
 ## Preparation before Chapter IV
 
-### Method 1
 First you need to install [java](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
 
 Then install [neo4j desktop](https://neo4j.com/download-thanks-desktop/?edition=desktop&flavour=windows&release=1.4.3&offline=true)
 
 When everything is done you can launch Neo4j Desktop and you should be able to connect to the default db (Movie)
 
-### Method 2
-First you need to install java. Seems like there's a lot of compatibility issue so I recommend you use the same version as me. 
-https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
-
-- Install Neo4j following these tutorials(n.b: you can stop the tutorials if you are able to have the same output as the image below):
-    https://neo4j.com/download-thanks/?edition=community \
-    https://riptutorial.com/neo4j/example/13244/installation---starting-a-neo4j-server \
-    https://www.youtube.com/watch?v=3JMhX1sT98U 
-
-<img src="img/Neo4j_setup.png">
-
 
 <a name="Evaluation system"></a>
 
 ## Grading
 
-You will have two grades at the end of the semester for this module. 
-
-### Final exam
-
-Date: 15/05/2023 de 9h à 10h en salle A 330.
-Content: Theoretical questions and a study case with a Python code to interpret and comment. Details tbd
+You will have a single grade at the end of the semestre
 
 ### Dossier
 
-Date: 23/04/2023.
+Date: 26/04/2024.
 It's not a "dossier" per say:
 
 - In each chapter there's a couple of "todo" you'll send me these todos and will count as a bonus/malus towards the grade. This is an individual work and mainly to see your participation since most of them will be worked and discussed during the course.
