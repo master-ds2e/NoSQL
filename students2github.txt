@@ -16,6 +16,8 @@ Georgiana Coroama: https://github.com/Georgiana02/Infrastructure-des-donnees.git
 
 Benie Beria Nezerwa: https://github.com/BenieBeria/Infrastructures-des-donn-es.git
 
-Adrien BUSCHE: https://github.com/BenieBeria/Infrastructures-des-donn-es.git
+Adrien BUSCHE: https://github.com/abusche/cours_NoSQL
 
 Sow Oumou: https://github.com/Ousow/Infrastructure-de-donn-es
+
+LIGIER Célestin: https://github.com/CelestinLig/NoSQL.git
