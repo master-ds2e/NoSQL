@@ -1,0 +1,21 @@
+dim 05/05 23h59
+
+SARTORI Romain: https://github.com/SartoriRomain/NoSQL
+
+HARB Ali: https://github.com/alihhalih/M1-Infrastructure-NoSQL.git
+
+FOGUE Carl-Dimitri: https://github.com/akacarlll/NoSQL_SQL-Exercises
+
+Frezard Paul: https://github.com/poolo1/Cours-NoSQL
+
+LI Huiyue: https://github.com/888lhy/NoSQL-exercices
+
+Sacha Hangimana: https://github.com/sachaju/Infrastructure-des-donnees.git
+
+Georgiana Coroama: https://github.com/Georgiana02/Infrastructure-des-donnees.git
+
+Benie Beria Nezerwa: https://github.com/BenieBeria/Infrastructures-des-donn-es.git
+
+Adrien BUSCHE: https://github.com/BenieBeria/Infrastructures-des-donn-es.git
+
+Sow Oumou: https://github.com/Ousow/Infrastructure-de-donn-es
